@@ -26,7 +26,10 @@ public class Animal {
 	{
 		System.out.println("The animal is drinking");
 	}
-	
+	public void drink1()
+	{
+		System.out.println("The animal is drinking");
+	}
 	
 	
 
